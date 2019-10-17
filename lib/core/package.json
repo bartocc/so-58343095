@@ -2,5 +2,8 @@
   "name": "core",
   "keywords": [
     "ember-addon"
-  ]
+  ],
+  "dependencies": {
+    "ember-concurrency": "*"
+  }
 }
