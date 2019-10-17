@@ -51,7 +51,8 @@
   },
   "ember-addon": {
     "paths": [
-      "lib/core"
+      "lib/core",
+      "lib/my-engine"
     ]
   }
 }
